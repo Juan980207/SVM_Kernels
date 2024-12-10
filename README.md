@@ -9,7 +9,7 @@ This repository accompanies the research document *"Kernel as the Key Booster of
   - Radial Basis Function (RBF) Kernel
 
 ### 2. Jupyter Notebook
-- **[svm_kernel_analysis.ipynb](svm_kernel_23031525.ipynb):** A practical notebook demonstrating the implementation of SVM models using different kernels with Scikit-learn. It includes:
+- **[svm_kernel_23031523.ipynb](svm_kernel_23031523.ipynb):** A practical notebook demonstrating the implementation of SVM models using different kernels with Scikit-learn. It includes:
   - Visualizations of decision boundaries
   - Accuracy comparisons
   - Parameter tuning for kernels
