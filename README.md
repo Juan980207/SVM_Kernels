@@ -2,13 +2,13 @@
 Tutorial about the impact of kernels in the performance of SVM classifier.
 This repository accompanies the research document *"Kernel as the Key Booster of SVM Performance"* by Juan Manuel González Rincón (ID: 23031523). It a tutorial on Support Vector Machines (SVM), focusing on the role of kernels in improving classification performance.
 
-### 1. Research Document
+### Research Document
 - **[SVM_Kernel_23031523.pdf](SVM_Kernel_23031523.pdf):** mathematical explanation of foundations of SVM and explores the impact of different kernel types:
   - Linear Kernel
   - Polynomial Kernel
   - Radial Basis Function (RBF) Kernel
 
-### 2. Jupyter Notebook
+### Jupyter Notebook
 - **[SVM_Kernel_23031523.ipynb](SVM_Kernel_23031523.ipynb):** A practical notebook demonstrating the implementation of SVM models using different kernels with Scikit-learn. It includes:
   - Visualizations of decision boundaries
   - Accuracy comparisons
@@ -20,7 +20,10 @@ Make sure you have Python installed along with the following libraries:
 - `matplotlib`
 - `scikit-learn`
 - `pandas`
-  
+##  Author
+
+Juan Manuel González Rincón
+MSc Data Science | University of Hertfordshire
 ### References
 1. Towards Data Science. (n.d.). *Support Vector Machines (SVM)*. Retrieved from https://towardsdatascience.com/support-vector-machines-svm-c9ef22815589
 2. Scikit-learn. (n.d.). *Exercise: Support Vector Machine Classifier on Iris Dataset*. Retrieved from https://scikit-learn.org/stable/auto_examples/exercises/plot_iris_exercise.html
